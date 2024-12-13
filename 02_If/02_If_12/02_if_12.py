@@ -1,0 +1,1 @@
+print("FFFFFDCBAAA"[int(float(input())/10)])
